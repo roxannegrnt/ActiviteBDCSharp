@@ -1,0 +1,10 @@
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\bin\Debug\ConnectionDB.exe.config
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\bin\Debug\ConnectionDB.exe
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\bin\Debug\ConnectionDB.pdb
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\obj\Debug\ConnectionDB.csprojResolveAssemblyReference.cache
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\obj\Debug\ConnectionDB.frmMain.resources
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\obj\Debug\ConnectionDB.Properties.Resources.resources
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\obj\Debug\ConnectionDB.csproj.GenerateResource.Cache
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\obj\Debug\ConnectionDB.exe
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\obj\Debug\ConnectionDB.pdb
+C:\Users\grantr_info\Desktop\ConnectionDB\ConnectionDB\bin\Debug\MySql.Data.dll
